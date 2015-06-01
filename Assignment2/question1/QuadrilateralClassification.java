@@ -1,7 +1,11 @@
 // -----------------------------------------------------
 // COMP 248 - Assignment #2, question 1
-// Written by: Nina Prentiss, 26270611		May 20, 2015
-// General Description: 
+// Written by: Nina Prentiss, 26270611		May 31, 2015
+// General Description: Classifies a quadrilateral
+//	as a square, rhombus, rectangle, parallelogram, or
+//	irregular quadrilateral given its four vertices on
+//	a coordinate plane, according to the length of its
+//	sides and the measure of one of its angles.
 // ----------------------------------------------------- 
 
 package question1;
